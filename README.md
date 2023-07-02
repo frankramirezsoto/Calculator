@@ -1,7 +1,7 @@
 
 # CALCULATOR
 
-This is a calculator project created to be part of the portofolio of Franklin Ramirez. This site uses React & Tailwind CSS. 
+This is a calculator project created to be part of my portofolio. This site uses React & Tailwind CSS. 
 
 
 ## Authors
