@@ -12,6 +12,5 @@ This is a calculator project created to be part of my portfolio. This site uses 
 
 - freeCodeCamp
 - MathJS
-- Estefania Cassingena
 - GetWaves.io
 - FontAwesome

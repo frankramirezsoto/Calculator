@@ -10,7 +10,7 @@ function Footer() {
             <div className="bg-black text-white text-center">
           <div className="container mx-auto md:text-start md:grid md:grid-cols-2 p-5">
             <div className='py-10'>
-              <p className='mb-7'>This website was created by Franklin Ramirez, 
+              <p className='mb-7'>This website was created by Franklin Ramirez 
                 using <a href="https://react.dev/">React</a> & <a href="https://tailwindcss.com/">Tailwind CSS.</a></p>
               <p className='mb-7'>Credits to <a href="https://www.freecodecamp.org/">freeCodeCamp</a>,
                 <a href="https://mathjs.org/"> MathJS,</a>
