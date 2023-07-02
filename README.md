@@ -1,8 +1,7 @@
 
 # CALCULATOR
 
-This is a calculator project created to be part of my portofolio. This site uses React & Tailwind CSS. 
-
+This is a calculator project created to be part of my portfolio. This site uses React & Tailwind CSS. 
 
 ## Authors
 
