@@ -21,7 +21,6 @@ A simple yet functional calculator built using **React** and styled with **Tailw
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **JavaScript**: The core programming language used for logic and functionality.
 - **HTML5**: For structuring the calculator layout.
-- **Vite**: A fast build tool for modern web development.
 
 ## Installation
 
